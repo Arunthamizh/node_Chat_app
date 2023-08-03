@@ -1,0 +1,12 @@
+created a folder for chat-app named as chat-app
+created a folder called src to maintain the project
+initialize the project 
+
+>> npm init
+
+install the express package form npm
+install the nodemon from npm
+created the index.js and index.html file in src
+setup the express server in the index.js and set the port to listen
+
+add .getignore file
